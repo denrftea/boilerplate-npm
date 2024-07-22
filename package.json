@@ -11,4 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
+	"name": "Proyek Boiler Plate",
+	"version": "1.0.0",
+	"author": "Den Ramadhan"
 }
